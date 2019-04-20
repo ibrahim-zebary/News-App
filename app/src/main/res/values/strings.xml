@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Guardian News</string>
+    <string name="section_target">section_target</string>
+    <string name="no_internet_message">No Internet connection found.\nCheck your connection.</string>
+    <string name="ooops">Ooops!</string>
+</resources>
